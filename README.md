@@ -15,6 +15,8 @@ RestAssured, Maven, JUnit, Java, Log4j, Allure Reporting, Apacje Poi, Json
 
 You are able to execute test on runner class, and alo using with @tag
 
+You can also set your own apikey and token in "configuration properties" files.
+
 # Reporting
 
 Firstly you need to install Scoop,
